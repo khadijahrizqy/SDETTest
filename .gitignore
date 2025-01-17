@@ -1,0 +1,33 @@
+### haven't been developed ###
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!*/src/main/*/target/
+!*/src/test/*/target/
+
+### Eclipse ###
+.classpath
+.project
+.settings
+
+### Mac OS ###
+.DS_Store
+
+### Env ###
+.env
+.env.local
+
+### java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Selenium and Chrome Webdriver ###
+screenshots/
+logs/
+test-output/
+
+### Build-related, later on ###
+build/
+dist/
+target/
